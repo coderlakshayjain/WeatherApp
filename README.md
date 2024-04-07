@@ -1,5 +1,5 @@
 
-# Weather
+# WeatherApp
 
 Animated and accurate weather forecast
 Weather is a beautiful and clean app, designed to be as simple to use as possible. With just one click you can check the weather for today.
