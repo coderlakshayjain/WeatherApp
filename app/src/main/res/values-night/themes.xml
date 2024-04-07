@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Weather" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorSecondary">@color/gray</item>
+        <item name="colorTertiary">@color/black</item>
+
+        <item name="android:searchViewStyle">@color/black</item>
+        <item name="colorAccent">@color/black</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/gray</item>
+        <!-- To change the color of text typed in search view-->
+        <item name="android:editTextColor">@color/black</item>
+
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>
+    <!-- For inbuilt splash screen -->
+<!--<item name="android:windowSplashScreenBackground">@color/white</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/w_logo</item>
+        <item name="android:windowSplashScreenAnimationDuration">50000</item>
+        <item name="android:windowSplashScreenBehavior">icon_preferred</item>
+-->

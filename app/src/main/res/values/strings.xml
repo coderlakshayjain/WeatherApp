@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="tag_line">Weather Matters,\nWe\'ve Got The Details</string>
+    <string name="design_by">DESIGN BY\n Lakshay Jain</string>
+    <string name="search">Search For a City</string>
+    <string name="Humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="conditions">Conditions</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="airPressure">Air Pressure</string>
+    <string name="city">City</string>
+    <string name="today">Today</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="date">Date</string>
+    <string name="day">Day</string>
+    <string name="zero">00:00</string>
+</resources>
