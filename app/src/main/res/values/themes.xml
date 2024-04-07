@@ -12,6 +12,8 @@
         <item name="android:textColorHint">@color/gray</item>
         <!-- To change the color of text typed in search view-->
         <item name="android:editTextColor">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/white</item>
     </style>
     <style name="Theme.Weather" parent="Base.Theme.Weather" />
 </resources>
