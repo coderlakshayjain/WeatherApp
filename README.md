@@ -12,8 +12,7 @@ The background color changes to reflect and almost make you feel the weather.
 From light blue for clear days to darker grays for cloudy days you’ll know how’s the weather like with just one glance.
 
 
-![Logo](https://github.com/coderlakshayjain/WeatherApp/assets/53349105/feac1a54-6ff2-4695-8f7c-8f7bea7e341b)
-
+![Logo](https://github.com/coderlakshayjain/WeatherApp/assets/53349105/7448915d-fee4-4a61-9df9-b3fd03a5ee87)
 
 ## Screenshots
 Spalsh Screen   
