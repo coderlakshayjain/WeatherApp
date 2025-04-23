@@ -35,7 +35,7 @@ To deploy this project run
 
 ## Tech Stack
 
-**Client:** Kotlin, XML, Material Design
+Kotlin, XML, Material Design, Gradle
 
 ## Support
 
